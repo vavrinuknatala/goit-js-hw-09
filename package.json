@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/vavrinuknatala/goit-js-hw-09",
+  "homepage": "https://vavrinuknatala.github.io/goit-js-hw-09",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
@@ -26,10 +26,6 @@
     "sass": "^1.32.8"
   },
   "dependencies": {
-    "@vimeo/player": "^2.16.3",
-    "flatpickr": "^4.6.9",
-    "lodash.throttle": "^4.1.1",
-    "notiflix": "^3.2.4",
-    "simplelightbox": "^2.10.2"
+    "flatpickr": "^4.6.9"
   }
 }
